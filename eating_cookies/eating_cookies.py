@@ -4,8 +4,7 @@ Returns: an integer
 '''
 def eating_cookies(n):
     # Your code here
-
-    pass
+    for i in eating_cookies i = 1
 
 if __name__ == "__main__":
     # Use the main function here to test out your implementation
